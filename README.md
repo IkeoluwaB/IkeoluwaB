@@ -7,7 +7,7 @@
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Data](https://data.altschoolafrica.com/) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python.
+- 🌱 I’m currently learning Python and SQL
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Data Engineer (Intern or Junior level).
 - 📫 You can  contact me by emailing akinola.bamise@gmail.com
